@@ -1,0 +1,10 @@
+.mainbody,input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.mainbody{
+	margin-top:30%;
+}
