@@ -4,7 +4,11 @@
     margin-right: auto;
     text-align: center;
 }
-
+ input{
+    width: 400px;
+    min-width: 200px;
+ }
 .mainbody{
 	margin-top:30%;
+    border: solid 4px white;
 }
