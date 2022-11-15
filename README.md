@@ -5,7 +5,7 @@ Minimal Portfolio using HTML, CSS &amp; JS :blue_heart:
 
 
 ### Publish link:
-[Click here](https://junaeid48.github.io/portfolio/)
+[Click here](https://devjunaeid.github.io/portfolio/)
 
 ## Demo Webview of the portfolio.
 ![Web View](./Screenshot/WebView.jpeg)
